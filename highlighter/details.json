@@ -1,0 +1,35 @@
+{
+    "uid": "highlighter",
+    "name": "Highlight.js Plugin",
+	"description": "Source Code Syntax Highlighting using Highlight.js (http://highlightjs.org)",
+    "version": "0.0.1",
+	"author": {
+		"name": "Dave Auld",
+		"email": "dave@dave-auld.net",
+		"website": "http://www.dave-auld.net/",
+		"contributors": [
+		]
+	},
+    "settings": [
+	],
+	"permissions": {
+		"ACCESS_USER": [],
+		"ACCESS_WRITER": [],
+		"ACCESS_EDITOR": [],
+		"ACCESS_MANAGING_EDITOR": []
+	},
+	"main_module": {
+		"path": "highlighter.js"
+	},
+	"theme": {
+		"settings": [
+		],
+		"content_templates": [
+	        {
+				"file": "index",
+				"name": "Default"
+			}
+
+		]
+	}
+}
