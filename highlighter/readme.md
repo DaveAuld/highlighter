@@ -14,8 +14,8 @@ Basic use
 After installing the plugin, create your article and set the template to the 'Highlight.js Plugin: Default'.
 
 Any code you wish to markup should be placed as follows in your article;
-<pre>
-	<code class="<language>">
+
+`<pre><code class="<language>">`
 
 		//The code to syntax highlight
 		int x = 1;
@@ -23,10 +23,9 @@ Any code you wish to markup should be placed as follows in your article;
 			//blah blah blah
 		}
 
-	</code>
-</pre>
+`</code></pre>`
 
-and replace <language> with the relevant language markup code (list of codes on highlight.js website).
+and replace `<language>` with the relevant language markup code e.g. html, c++, py, (list of codes on http://highlightjs.org website).
 
 Future Development
 ==================
