@@ -2,7 +2,7 @@
     "uid": "highlighter",
     "name": "Highlight.js Plugin",
 	"description": "Source Code Syntax Highlighting using Highlight.js (http://highlightjs.org)",
-    "version": "0.0.1",
+    "version": "0.0.2",
 	"author": {
 		"name": "Dave Auld",
 		"email": "dave@dave-auld.net",
