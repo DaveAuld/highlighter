@@ -6,7 +6,7 @@
 About
 -----
 This is just a very basic initial implementation of a source code syntax highlighting plugin utilising the http://highlightjs.org library.
-This version utilises the CND deployed basic library with more commonly used language syntax's available through the CDN distribution.
+This version utilises the CDN deployed basic library with more commonly used language syntax's available through the CDN distribution.
 For more information visit: http://highlightjs.org
 
 Installation and Setup
