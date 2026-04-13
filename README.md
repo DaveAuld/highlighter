@@ -1,3 +1,8 @@
+UPDATE: PencilBlue is long gone, so I am archiving this repo, and keeping just for reference sake. It will no longer be maintained.
+
+
+
+
 [Highlighter Plugin for PencilBlue] (http://pencilblue.org)
 =====
 
